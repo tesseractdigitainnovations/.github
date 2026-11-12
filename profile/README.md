@@ -46,7 +46,7 @@ Discover our repositories, projects, experiments, and tools:
 
 Our blogs.
 
-👉 **[Explore all repositories](https://tdi.solutions/blog)**
+👉 **[Explore all blogs](https://tdi.solutions/blog)**
 
 ---
 
